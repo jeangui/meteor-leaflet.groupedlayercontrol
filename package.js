@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Leaflet group layered control Plugin for Meteor ",
   version: "1.0.0",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/jeangui/meteor-leaflet.groupedlayercontrol"
 });
 
 Package.onUse(function(api,where) {
